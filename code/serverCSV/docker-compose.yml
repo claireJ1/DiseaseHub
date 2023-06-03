@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  servercsv:
+    build: ./
+    container_name: servercsv
+    restart: always
+    ports:
+      - "80:80"
