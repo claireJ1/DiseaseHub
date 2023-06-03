@@ -1,0 +1,27 @@
+name: "Deploy to AWS"
+
+on:
+  workflow_dispatch:
+    inputs:
+      env:
+        description: Environment
+        required: true
+        type: choice
+        options:
+          - dev
+          - staging
+          - prod
+      git-ref:
+        description: Git Ref  (Optional, default latest)
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  terraform:
+    uses: cseteaching-unsw-edu-au/se3011-23t1-pipelines/.github/workflows/terraform.yml@master
+    with:
+      env: ${{ inputs.env }}
+      git-ref: ${{ inputs.git-ref }}
+    secrets: inherit
