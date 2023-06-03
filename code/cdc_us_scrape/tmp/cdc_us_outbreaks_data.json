@@ -1,0 +1,198 @@
+{
+    "data_source": "cdc",
+    "dataset_type": "disease outbreaks",
+    "dataset_id": "http://unsw-seng3011-23t1-shared-dev.s3.ap-southeast-2.amazonaws.com",
+    "time_object": {
+        "timestamp": "2023-03-10 01:57:36.085041",
+        "timezone": "GMT+11"
+    },
+    "events": [
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.079838",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "listeriosis",
+            "attribute": {
+                "location": "Ohio",
+                "source_of_outbreak": "A specific food item has not yet been identified as the source of this outbreak. However, CDC is concerned that several recent illnesses have been reported. Listeria illness is rare, but it can result in serious illness or death.",
+                "date_of_publication": "February 15, 2023",
+                "cases": 11,
+                "deaths": 0,
+                "control_measures": "Take steps to prevent getting sick from Listeria \n\nFollow CDC on Facebook, Instagram, or Twitter for updates about this outbreak.\nLearn which foods are more likely to contain Listeria and ways to prevent getting Listeria.\nStay up-to-date on food recalls and outbreaks."
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.179643",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "COVID-19",
+            "attribute": {
+                "location": "",
+                "source_of_outbreak": "Clinicians: Please report any carbapenem-resistant Pseudomonas aeruginosa (CRPA) from an ocular specimen or VIM-CRPA from any specimen source with collection dates since January 1, 2022, to your local or state health department\u2019s healthcare-associated infections contact or email haioutbreak@cdc.gov\u00a0for assistance submitting specimens. Ask your clinical laboratories to save these isolates for further characterization at public health laboratories.",
+                "date_of_publication": "March 1, 2023",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.283488",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "Multistate Norovirus Outbreak Linked to Raw Oysters from Texas",
+            "attribute": {
+                "location": "Alabama, Florida, Georgia, Louisiana, Mississippi, North Carolina, Tennessee, Texas",
+                "source_of_outbreak": "State and local officials have collected information about the source of oysters from restaurants where sick people ate. FDA has confirmed that potentially contaminated raw oysters were harvested in area TX 1, Galveston Bay, Texas. The FDA and the states are conducting a trace forward investigation to determine where the raw oysters were distributed and to ensure they\u2019re removed from the food supply.",
+                "date_of_publication": "December 21, 2022",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.396568",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "listeriosis",
+            "attribute": {
+                "location": "Maryland, Ohio",
+                "source_of_outbreak": "",
+                "date_of_publication": "January 27, 2023",
+                "cases": 3,
+                "deaths": 0,
+                "control_measures": "Keep raw enoki mushrooms separate from foods that won\u2019t be cooked.\n\nThis prevents the spread of Listeria germs from enoki mushrooms to foods that you won\u2019t cook before eating."
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.498404",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "listeriosis",
+            "attribute": {
+                "location": "Ohio",
+                "source_of_outbreak": "Deli meats (cold cuts, lunch meats, hot dogs, and p\u00e2t\u00e9s sold at the deli) and cheeses are known sources of Listeria illnesses. This is because Listeria can easily spread among food on deli countertops, deli slicers, surfaces, and hands. Listeria is a hardy germ that can be difficult to fully remove once it is in the deli. It can survive and grow at cold temperatures in the refrigerator.",
+                "date_of_publication": "November 21, 2022",
+                "cases": 16,
+                "deaths": 1,
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.570901",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "hepatitis b",
+            "attribute": {
+                "location": "New York",
+                "source_of_outbreak": "",
+                "date_of_publication": "March 8, 2023",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.733885",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "COVID-19",
+            "attribute": {
+                "location": "New York",
+                "source_of_outbreak": "",
+                "date_of_publication": "",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.867353",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "Outbreak of Lung Injury Associated with the Use of E-Cigarette, or Vaping, Products",
+            "attribute": {
+                "location": "Alabama, Alaska, California, Connecticut, Delaware, District Of Columbia, Florida, Georgia, Hawaii, Illinois, Indiana, Kansas, Kentucky, Louisiana, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, New Jersey, New York, Oregon, Pennsylvania, Puerto Rico, Rhode Island, South Carolina, Tennessee, Texas, Utah, Virgin Islands, Virginia, Washington, West Virginia",
+                "source_of_outbreak": "For more information and resources for key stakeholders, visit For Healthcare Providers and For State and Local Health Departments. General resources\u00a0are also available.",
+                "date_of_publication": "August 3, 2021",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.903092",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "",
+            "attribute": {
+                "location": "",
+                "source_of_outbreak": "",
+                "date_of_publication": "",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:35.975481",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "measles",
+            "attribute": {
+                "location": "Arizona, California, District Of Columbia, Florida, Minnesota, New Jersey, New York, North Carolina, Tennessee, Washington",
+                "source_of_outbreak": "",
+                "date_of_publication": "February 6, 2023",
+                "cases": "",
+                "deaths": "",
+                "control_measures": ""
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-03-10 01:57:36.077202",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "GMT+11"
+            },
+            "event_type": "hepatitis a",
+            "attribute": {
+                "location": "Alaska, California, Hawaii, Kentucky, Michigan, Utah",
+                "source_of_outbreak": "",
+                "date_of_publication": "June 13, 2022",
+                "cases": 44797,
+                "deaths": 421,
+                "control_measures": "The following groups are at highest risk for acquiring HAV infection or developing serious complications from HAV infection in these outbreaks and should be offered the hepatitis A vaccine in order to prevent or control an outbreak:\n\nPeople who use drugs (injection or non-injection)\nPeople experiencing unstable housing or homelessness \nMen who have sex with men (MSM)\nPeople who are currently or were recently incarcerated \nPeople with chronic liver disease, including cirrhosis, hepatitis B, or hepatitis C"
+            }
+        }
+    ]
+}
