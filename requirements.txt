@@ -1,0 +1,16 @@
+# Continuous Integration
+flake8==6.0.0
+pytest==6.0.2
+coverage==5.1
+newrelic==8.7.1
+newrelic-lambda-cli==0.7.2
+
+# Libraries
+beautifulsoup4==4.11.2
+boto3==1.26.85
+requests==2.25.1
+scrapingant_client==1.0.1
+grpcio
+grpcio-tools
+requests
+protobuf

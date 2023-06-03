@@ -1,0 +1,12 @@
+beautifulsoup4==4.10.0
+boto3==1.26.86
+bs4==0.0.1
+flagbase==0.0.8
+lxml==4.8.0
+pytest==7.0.1
+pytz==2023.3
+requests==2.28.2
+selenium==4.8.3
+webdriver-manager==3.8.5
+newrelic==8.7.1
+newrelic-lambda-cli==0.7.2
