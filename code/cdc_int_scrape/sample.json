@@ -1,0 +1,2569 @@
+{
+    "data_source": "Centers for Disease Control and Prevention",
+    "dataset_type": "Disease Outbreaks",
+    "dataset_id": "http://unsw-seng3011-23t1-shared-dev.s3.ap-southeast-2.amazonaws.com",
+    "time_object": {
+        "timestamp": "2023-04-16 23:58:44.204711",
+        "timezone": "GMT+11"
+    },
+    "events": [
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Aruba",
+                "cases": "3",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Andorra",
+                "cases": "4",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "United Arab Emirates",
+                "cases": "16",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Argentina",
+                "cases": "1052",
+                "deaths": "2",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Australia",
+                "cases": "144",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Austria",
+                "cases": "327",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Belgium",
+                "cases": "790",
+                "deaths": "1",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Benin",
+                "cases": "3",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Bulgaria",
+                "cases": "6",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Bahrain",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Bahamas",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Bosnia and Herzegovina",
+                "cases": "9",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Bermuda",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Bolivia",
+                "cases": "263",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Brazil",
+                "cases": "10690",
+                "deaths": "15",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Barbados",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Central African Republic",
+                "cases": "13",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Canada",
+                "cases": "1460",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Switzerland",
+                "cases": "551",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Chile",
+                "cases": "1406",
+                "deaths": "2",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "China",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Cameroon",
+                "cases": "18",
+                "deaths": "3",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Democratic Republic of the Congo",
+                "cases": "348",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Republic of the Congo",
+                "cases": "5",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Colombia",
+                "cases": "4062",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Costa Rica",
+                "cases": "126",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Cuba",
+                "cases": "8",
+                "deaths": "1",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Cura\u00e7ao",
+                "cases": "3",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Cyprus",
+                "cases": "5",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Czechia",
+                "cases": "71",
+                "deaths": "1",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Germany",
+                "cases": "3689",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Denmark",
+                "cases": "192",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Dominican Republic",
+                "cases": "52",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Ecuador",
+                "cases": "460",
+                "deaths": "2",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Egypt",
+                "cases": "3",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Spain",
+                "cases": "7514",
+                "deaths": "3",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Estonia",
+                "cases": "11",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Finland",
+                "cases": "42",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "France",
+                "cases": "4114",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "United Kingdom",
+                "cases": "3735",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Georgia",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Ghana",
+                "cases": "121",
+                "deaths": "4",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Gibraltar",
+                "cases": "6",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Guadeloupe",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Greece",
+                "cases": "86",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Greenland",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Guatemala",
+                "cases": "314",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Guyana",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Hong Kong",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Honduras",
+                "cases": "13",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Croatia",
+                "cases": "33",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Hungary",
+                "cases": "80",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Indonesia",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "India",
+                "cases": "22",
+                "deaths": "1",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Ireland",
+                "cases": "227",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Iran",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Iceland",
+                "cases": "16",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Israel",
+                "cases": "262",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Italy",
+                "cases": "954",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Jamaica",
+                "cases": "18",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Jordan",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Japan",
+                "cases": "8",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "South Korea",
+                "cases": "4",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Lebanon",
+                "cases": "26",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Liberia",
+                "cases": "6",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Sri Lanka",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Lithuania",
+                "cases": "5",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Luxembourg",
+                "cases": "57",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Latvia",
+                "cases": "6",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Saint Martin",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Morocco",
+                "cases": "3",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Monaco",
+                "cases": "3",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Moldova",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Mexico",
+                "cases": "3696",
+                "deaths": "4",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Malta",
+                "cases": "33",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Montenegro",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Mozambique",
+                "cases": "1",
+                "deaths": "1",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Martinique",
+                "cases": "7",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "New Caledonia",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Nigeria",
+                "cases": "775",
+                "deaths": "7",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Netherlands",
+                "cases": "1260",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Norway",
+                "cases": "94",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "New Zealand",
+                "cases": "41",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Panama",
+                "cases": "99",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Peru",
+                "cases": "3716",
+                "deaths": "12",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Philippines",
+                "cases": "4",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Poland",
+                "cases": "215",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Portugal",
+                "cases": "950",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Paraguay",
+                "cases": "68",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Qatar",
+                "cases": "5",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Romania",
+                "cases": "47",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Russia",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Saudi Arabia",
+                "cases": "8",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Sudan",
+                "cases": "18",
+                "deaths": "1",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Singapore",
+                "cases": "21",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "El Salvador",
+                "cases": "69",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "San Marino",
+                "cases": "1",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Serbia",
+                "cases": "40",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Slovakia",
+                "cases": "14",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Slovenia",
+                "cases": "47",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Sweden",
+                "cases": "257",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Thailand",
+                "cases": "12",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Turkey",
+                "cases": "12",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Taiwan",
+                "cases": "4",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Ukraine",
+                "cases": "5",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Uruguay",
+                "cases": "19",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "United States",
+                "cases": "30097",
+                "deaths": "27",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Venezuela",
+                "cases": "12",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "Vietnam",
+                "cases": "2",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-01-26 17:30:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "Mpox",
+            "attribute": {
+                "location": "South Africa",
+                "cases": "5",
+                "deaths": "0",
+                "source": "Unknown",
+                "date_of_report": "2023-01-26 17:30:00",
+                "control_measures": [
+                    "Avoid close, skin-to-skin contact with people who have a rash that looks like mpox.",
+                    "Avoid contact with objects and materials that a person with mpox has used.",
+                    "Wash your hands often.",
+                    "Get vaccinated!",
+                    "If you are in Central or West Africa, avoid contact with animals that can spread mpox virus, usually rodents and primates."
+                ]
+            }
+        },
+        {
+            "time_object": {
+                "timestamp": "2023-04-16 20:00:00",
+                "duration": 0,
+                "duration_unit": "second",
+                "timezone": "EDT"
+            },
+            "event_type": "COVID-19",
+            "attribute": {
+                "location": "United States of America",
+                "cases": "104,348,746",
+                "deaths": "1,128,404",
+                "source": "Wuhan, China",
+                "date_of_report": "2023-04-16 20:00:00",
+                "control_measures": [
+                    "Staying Up to Date with COVID-19 Vaccines",
+                    "Improving Ventilation and Spending Time Outdoors",
+                    "Moving indoor activities outdoors",
+                    "Getting Tested for COVID-19 If Needed",
+                    "Following Recommendations for What to Do If You Have Been Exposed",
+                    "Staying Home When You Have Suspected or Confirmed COVID-19",
+                    "Seeking Treatment If You Have COVID-19 and Are at High Risk of Getting Very Sick",
+                    "Avoiding Contact with People Who Have Suspected or Confirmed COVID-19",
+                    "Wearing Masks or Respirators",
+                    "Increasing Space and Distance"
+                ]
+            }
+        }
+    ]
+}

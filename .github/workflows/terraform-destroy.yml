@@ -1,0 +1,33 @@
+name: "DESTROY Stack"
+
+on:
+  workflow_dispatch:
+    inputs:
+      env:
+        description: Environment
+        required: true
+        type: choice
+        options:
+          - dev
+          - staging
+          - prod
+      git-ref:
+        description: Git Ref  (Optional, default latest)
+        required: false
+      confirmation:
+        description: Type in "yes" if you are serious. This is a DECONSTRUCTIVE operation.
+        required: true
+
+permissions:
+  contents: read
+
+jobs:
+  terraform:
+    name: "DESTROY (${{ github.event.inputs.env }})"
+    
+    uses: cseteaching-unsw-edu-au/se3011-23t1-pipelines/.github/workflows/terraform-destroy.yml@master
+    with:
+      env: ${{ inputs.env }}
+      git-ref: ${{ inputs.git-ref }}
+      confirmation: ${{ inputs.confirmation }}
+    secrets: inherit
