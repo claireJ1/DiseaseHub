@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+service SenderCSV {
+    // recieves token, team name, timestamp
+    rpc SendFile(SendRequest) returns (SendResponse) {}
+}
+
+message SendRequest {
+    string token = 1;
+    string name = 2;
+    string data = 3;
+    string data_source = 4;
+    string dataset_type = 5;
+    string event_type = 6; 
+}
+
+message SendResponse {
+    string message = 1;
+}
